@@ -55,7 +55,7 @@ smd({
 *Uploaded :* ${_0x4123ae.ago}
 *Author :* ${_0x4123ae.author.name}
 
-_Alya is singing..._
+_nikka downloading the song.._
 `
     });
     
